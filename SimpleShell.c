@@ -1,7 +1,8 @@
 #include "simple_shell.h"
 
 /**
- * initialize_shell - allocate memory for the simple shell and set inotal values
+ * initialize_shell - allocate memory for the
+ * simple shell and set inotal values
  * @shell: double pointer back to the simple shell
  * @envp: enviornmental variables passed directly from main
  *

@@ -81,8 +81,8 @@ char **split_input(char *string_to_split, char *delimiter)
 	return (ret_array);
 }
 /**
- * count_delimiters - Counts the number of buckets to allocate to store the data
- *               when given a string delimiter of the data
+ * count_delimiters - Counts the number of buckets to allocate to store the
+ * data when given a string delimiter of the data
  * @string: The string to evaluate
  * @delimiter: The string that is breaking up str
  * Return: The number of spaces to store the data, trailing NULL excluded

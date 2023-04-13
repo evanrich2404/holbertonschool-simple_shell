@@ -68,7 +68,8 @@ char *build_test_path(char *dir_path, char *command)
 }
 
 /**
- * execute_command_process - Forks a child process that is possessed by our argv
+ * execute_command_process - Forks a child process
+ * that is possessed by our argv
  * @shell: double-pointer back to the interpreter
  *
  * Return: void
